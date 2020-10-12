@@ -9,7 +9,7 @@ It seems that Geeks for Geeks has two separate articles (possible two additional
 
 If you are interested in my approach you can read more about it the following post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2020/10/12/print-a-binary-tree-in-vertical-order/
 
 Hope you enjoy it.
 
